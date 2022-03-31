@@ -1,0 +1,16 @@
+{
+    "fb_banner" : "306816421272778_306816577939429",
+    "fb_interstitial" : "306816421272778_306816707939416",
+    "fb_native" : "306816421272778_306816907939396",
+    "fb_native_banner" : "306816421272778_306816827939404",
+    "admob_pub_id": "pub-3940256099942544",
+    "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+    "admob_banner" : "/21952429235,22644075336/TTS_TUBEMUSICDOWNLOADER_BANNER_AD_1",
+    "admob_interstitial" : "/21952429235,22644075336/TTS_TUBEMUSICDOWNLOADER_INTERSTITIAL_2",
+    "admob_native" : "/21952429235,22644075336/TTS_TUBEMUSICDOWNLOADER_NATIVE_AD_2",
+    "admob_open" : "/21952429235,22644075336/TTS_TUBEMUSICDOWNLOADER_OPEN_AD_2",
+    "ad_type" : "2",
+    "admob_native_ad_count" : 5,
+    "new_pkg" : "com.videodly.tubemusic",
+    "is_version" : "false"
+  }
