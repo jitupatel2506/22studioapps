@@ -10,5 +10,6 @@
     "admob_open" : "/21952429235,22644075336/TTS_TUBEMUSICDOWNLOADER_OPEN_AD_2",
     "ad_type" : "1",
     "new_pkg" : "com.videodly.tubemusic",
-    "is_version" : "false"
+    "is_version" : "false",
+    "load_more":true
   }
