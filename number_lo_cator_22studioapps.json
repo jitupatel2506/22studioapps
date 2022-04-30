@@ -8,7 +8,7 @@
     "admob_interstitial" :"/21952429235,22644075336/TTS_TUBEMUSICDOWNLOADER_INTERSTITIAL_2",
     "admob_native" : "/21952429235,22644075336/TTS_TUBEMUSICDOWNLOADER_NATIVE_AD_2",
     "admob_open" : "/21952429235,22644075336/TTS_TUBEMUSICDOWNLOADER_OPEN_AD_2",
-    "ad_type" : "0",
+    "ad_type" : "1",
     "new_pkg" : "com.videodly.tubemusic",
     "is_version" : "false"
   }
