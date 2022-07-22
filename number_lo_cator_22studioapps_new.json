@@ -4,13 +4,13 @@
     "fb_native" : "558731339056010_558731452389332",
     "admob_pub_id": "pub-9997562133257201",
     "admob_app_id": "ca-app-pub-9997562133257201~8104512615",
-    "admob_banner" : "ca-app-pub-9997562133257201/5478349270",
-    "admob_interstitial" :"ca-app-pub-9997562133257201/7912940920",
-    "admob_native" : "ca-app-pub-9997562133257201/6599859254",
-    "admob_open" : "ca-app-pub-9997562133257201/6691644000",
+    "admob_banner" : "/21753324030,22764336884/com.mobilenumbertracker.mobilenumberlocation.mobilenumberlocator_Banner",
+    "admob_interstitial" :"/21753324030,22764336884/com.mobilenumbertracker.mobilenumberlocation.mobilenumberlocator_Interstitial",
+    "admob_native" : "/21753324030,22764336884/com.mobilenumbertracker.mobilenumberlocation.mobilenumberlocator_Native",
+    "admob_open" : "/21753324030,22764336884/com.mobilenumbertracker.mobilenumberlocation.mobilenumberlocator_AppOpen",
     "ad_type" : "1",
     "ad_pause":false,
     "new_pkg" : "com.videodly.tubemusic",
     "is_version" : "false",
-    "load_more":false
+    "load_more":true
   }
