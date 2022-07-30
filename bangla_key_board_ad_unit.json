@@ -1,6 +1,6 @@
 {
   "error": false,
-  "isNewApp":true,
+  "isNewApp":false,
   "app_pkg": "com.twentytwo.bangla.banglakeyboard.banglaapp.banglakeyboardapp.keyboardapp.typebangla.banglakeypad",
    "fbBannr": "YOUR_PLACEMENT_ID",
   "fbInter": "YOUR_PLACEMENT_ID",
