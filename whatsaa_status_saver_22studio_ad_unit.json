@@ -1,14 +1,14 @@
 {
-    "fb_banner": "377465171179271_377467487845706",
-    "fb_interstitial": "377465171179271_377467621179026",
-    "fb_native": "377465171179271_377467721179016",
+    "fb_banner": "638188597880032_638188987879993",
+    "fb_interstitial": "638188597880032_638189137879978",
+    "fb_native": "638188597880032_638189181213307",
 
-    "admob_pub_id": "pub-8295793237549637",
-    "admob_app_id": "ca-app-pub-8295793237549637~7533235779",
-    "admob_banner": "ca-app-pub-8295793237549637/2280909097",
-    "admob_interstitial": "ca-app-pub-8295793237549637/9967827421",
-    "admob_native": "ca-app-pub-8295793237549637/3402419075",
-    "admob_open":"ca-app-pub-8295793237549637/8463174060",
+    "admob_pub_id": "pub-3940256099942544",
+    "admob_app_id": "a-app-pub-3940256099942544~3347511713",
+    "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+    "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+    "admob_native": "ca-app-pub-3940256099942544/2247696110",
+    "admob_open":"ca-app-pub-3940256099942544/3419835294",
 
     "pause_all":false,
     "load_more":false,
