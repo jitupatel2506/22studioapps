@@ -1,18 +1,20 @@
 {
-    "fb_banner": "1030842334265232_1030842650931867",
-    "fb_interstitial": "1030842334265232_1030843137598485",
-    "fb_native": "1030842334265232_1030843334265132",
-
-     "admob_pub_id": "pub-3940256099942544_a",
-    "admob_app_id": "a-app-pub-3940256099942544~3347511713_a",
-    "admob_banner": "ca-app-pub-3940256099942544/6300978111_a",
-    "admob_interstitial": "ca-app-pub-3940256099942544/1033173712_a",
-    "admob_native": "ca-app-pub-3940256099942544/2247696110_a",
-    "admob_open":"ca-app-pub-3940256099942544/3419835294_a",
-
-    "pause_all": true,
-    "ad_type": "1",
-    "new_pkg": "com.cll.videostatussaver",
-    "is_version": "false"
+  "error": false,
+  "isNewApp":false,
+  "app_pkg": "com.twentytwo.bangla.banglakeyboard.banglaapp.banglakeyboardapp.keyboardapp.typebangla.banglakeypad",
+   "fbBannr": "",
+  "fbInter": "",
+  "fbNative": "",
+  "fbNativeBnnr": "",
+  "AdmobBannr": "ca-app-pub-3940256099942544/6300978111_a",
+  "AdmobInter": "ca-app-pub-3940256099942544/1033173712_a",
+  "AdmobInterSplash":"",
+  "AdmobNative": "ca-app-pub-3940256099942544/2247696110_a",
+  "AdmobOpenAds": "ca-app-pub-3940256099942544/3419835294_a",
+  "admob_pub_id": "pub-3940256099942544_a",
+  "admob_app_id": "ca-app-pub-3940256099942544~3347511713_a",
+  "adType": "admob",
+  "loadMore": false,
+  "adStatus": "admob",
+  "adMobTime":40
 }
-
