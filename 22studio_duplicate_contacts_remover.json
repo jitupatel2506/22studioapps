@@ -1,0 +1,21 @@
+{
+  "error": false,
+  "isNewApp":false,
+  "app_pkg": "com.downing.videodownloader.video.downloader",
+   "fbBannr": "YOUR_PLACEMENT_ID",
+  "fbInter": "YOUR_PLACEMENT_ID",
+  "fbNative": "YOUR_PLACEMENT_ID",
+  "fbNativeBnnr": "YOUR_PLACEMENT_ID",
+ "AdmobBannr": "ca-app-pub-3940256099942544/6300978111",
+  "AdmobInter": "ca-app-pub-3940256099942544/1033173712",
+  "AdmobInterSplash":"",
+  "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
+  "AdmobOpenAds": "ca-app-pub-3940256099942544/3419835294",
+  "admob_pub_id": "pub-3940256099942544",
+  "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+  "adType": "admob",
+  "adStatus": "admob",
+  "loadMore":false,
+  "adNativeCount":5,
+  "adMobTime":30
+}
