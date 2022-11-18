@@ -16,5 +16,5 @@
   "adType": "admob",
   "adStatus": "admob",
   "loadMore":false,
-  "adMobTime": 60
+  "adMobTime": 30
 }
