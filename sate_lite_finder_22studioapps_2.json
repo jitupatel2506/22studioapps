@@ -6,15 +6,15 @@
   "fbInter": "5000838289954091_5000840083287245",
   "fbNative": "5000838289954091_5000840523287201",
   "fbNativeBnnr": "",
-  "AdmobBannr": "/21753324030,22764336884/com.satellitefinder.satellitemap.satellitefinderdishpointer_Banner",
-  "AdmobInter": "/21753324030,22764336884/com.satellitefinder.satellitemap.satellitefinderdishpointer_Interstitial",
+  "AdmobBannr": "ca-app-pub-5408926552459671/3471960046",
+  "AdmobInter": "ca-app-pub-5408926552459671/7219633361",
   "AdmobInterSplash":"",
-  "AdmobNative": "/21753324030,22764336884/com.satellitefinder.satellitemap.satellitefinderdishpointer_Native",
-  "AdmobOpenAds": "/21753324030,22764336884/com.satellitefinder.satellitemap.satellitefinderdishpointer_AppOpen",
+  "AdmobNative": "ca-app-pub-5408926552459671/5112915597",
+  "AdmobOpenAds": "ca-app-pub-5408926552459671/9982098895",
   "admob_pub_id": "pub-3940256099942544",
   "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
   "adType": "admob",
   "loadMore": false,
   "adStatus": "admob",
-  "adMobTime":20
+  "adMobTime":40
 }
