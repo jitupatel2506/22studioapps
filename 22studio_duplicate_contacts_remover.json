@@ -2,20 +2,28 @@
   "error": false,
   "isNewApp":false,
   "app_pkg": "com.downing.videodownloader.video.downloader",
-   "fbBannr": "YOUR_PLACEMENT_ID",
-  "fbInter": "YOUR_PLACEMENT_ID",
-  "fbNative": "YOUR_PLACEMENT_ID",
+  "fbBannr": "692690505538178_692692115538017",
+  "fbInter": "692690505538178_692692035538025",
+  "fbNative": "692690505538178_692691905538038",
   "fbNativeBnnr": "YOUR_PLACEMENT_ID",
- "AdmobBannr": "ca-app-pub-5408926552459671/3473278636",
+
+  "AdxBannr": "ca-app-pub-5408926552459671/3473278636",
+  "AdxInter": "ca-app-pub-5408926552459671/2487252608",
+  "AdxbInterSplash":"",
+  "AdxNative": "ca-app-pub-5408926552459671/7220951958",
+  "AdxOpenAds": "ca-app-pub-5408926552459671/1964508420",
+  
+  "AdmobBannr": "ca-app-pub-5408926552459671/3473278636",
   "AdmobInter": "ca-app-pub-5408926552459671/2487252608",
   "AdmobInterSplash":"",
   "AdmobNative": "ca-app-pub-5408926552459671/7220951958",
   "AdmobOpenAds": "ca-app-pub-5408926552459671/1964508420",
   "admob_pub_id": "pub-3940256099942544",
   "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+
   "adType": "admob",
   "adStatus": "admob",
   "loadMore":false,
   "adNativeCount":5,
-  "adMobTime":20
+  "adMobTime":40
 }
